@@ -1,2 +1,2 @@
 # BrickElimination
-Mini game BrickElimination written with C++ base on EasyX
+Mini game BrickElimination written with C++ based on EasyX
