@@ -1,2 +1,4 @@
 # BrickElimination
-Mini game BrickElimination written with C++ based on EasyX
+消砖块。练习类。
+
+
